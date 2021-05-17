@@ -1,0 +1,20 @@
+.modifybutton{margin: 10px; color: black; background-color:powderblue; border: 2px solid #000000; border-radius: 6px;}
+.modifybutton:hover {
+    background-color: #008CBA;
+    color: white;
+}
+.deletebutton{margin: 10px; color: black; background-color:powderblue; border: 2px solid #000000; border-radius: 6px;}
+.deletebutton:hover {
+    background-color: #008CBA;
+    color: white;
+}
+.createbutton{margin: 10px; color: black; background-color:powderblue; border: 2px solid #000000; border-radius: 6px;}
+.createbutton:hover {
+    background-color: #008CBA;
+    color: white;
+}
+.admin {
+    text-align: center;
+}
+#texto1 {font-size: 25px; color: #ffffff; font-family: Arial,
+Helvetica, sans-serif; background-color: rgb(43, 150, 221);}

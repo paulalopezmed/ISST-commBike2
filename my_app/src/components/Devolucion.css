@@ -1,0 +1,9 @@
+.Devolucion {
+    text-align: center;
+  }
+
+.selectbutton{margin: 10px; color: black; background-color:powderblue; border: 2px solid #000000; border-radius: 6px;}
+.selectbutton:hover {
+    background-color: #008CBA;
+    color: white;
+}
